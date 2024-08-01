@@ -1,0 +1,15 @@
+,Regressor,CV_Score,Median_Abs_Error,R2_Score
+0,LinearRegression,0.7,132149.62,0.72
+1,LassoRegression,0.7,132144.0,0.72
+2,RidgeRegression,0.7,132128.82,0.72
+3,DecisionTree,0.91,60000.0,0.91
+4,SupportVectorRegression,-0.07,199597.39,-0.07
+5,BaggingRegressor,0.94,49225.0,0.95
+6,RandomForestRegressor,0.95,47887.92,0.95
+7,ExtraTreesRegressor,0.95,48110.0,0.94
+8,AdaBoostRegressor,0.77,240896.35,0.78
+9,GradientBoostingRegressor,0.94,58013.28,0.94
+10,XGBRegressor,0.95,48038.59,0.94
+11,StackingRegressor,0.9,61810.0,0.91
+12, VotingRegressor,0.83,68910.66,0.83
+13,Artificial Neural Network,,177283.97,0.65
